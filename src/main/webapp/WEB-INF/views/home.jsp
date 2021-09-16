@@ -9,7 +9,7 @@
 	Hello world!  
 </h1>
 <h1>ê¹íí</h1>
-<h1>이재헌</h1>
+<h1>Lee재헌</h1>
 <h1>jjj</h1>
 <P>  The time on the server is ${serverTime}. </P>
 </body>
